@@ -1,0 +1,14 @@
+{
+    "name": "hello-netlify",
+    "version": "1.0.0",
+    "description": "Testing out Netlify",
+    "scripts": {
+        "start": "http-server"
+    },
+    "repository": "git@github.com:imann24/hello-netlify.git",
+    "author": "Isaiah Mann <isaiahbmann@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "http-server": "^0.12.3"
+    }
+}
